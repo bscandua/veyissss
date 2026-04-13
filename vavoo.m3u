@@ -3,6 +3,10 @@
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1702937932/index.m3u8
 #EXTINF:-1 tvg-name="24 HABER HD+ SD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_HABER_HD_SD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",24 HABER HD+ SD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3828793616/index.m3u8
+#EXTINF:-1 tvg-name="24 KITCHEN (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_KITCHEN_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",24 KITCHEN (6)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3295699287/index.m3u8
+#EXTINF:-1 tvg-name="24 KITCHEN (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_KITCHEN_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",24 KITCHEN (7)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3329504843/index.m3u8
 #EXTINF:-1 tvg-name="24 KITCHEN HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_KITCHEN_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",24 KITCHEN HD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/4285350247/index.m3u8
 #EXTINF:-1 tvg-name="24 RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="24_RAW_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",24 RAW (1)
@@ -371,8 +375,6 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3692337241/index.m3u8
 #EXTINF:-1 tvg-name="BEIN 1 SD (480P) (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_1_SD_480P_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BEIN 1 SD (480P) (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2919229346/index.m3u8
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_BOX_OFFICE_1_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BEIN BOX OFFICE 1 (6)
-https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2930746102/index.m3u8
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_BOX_OFFICE_1_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BEIN BOX OFFICE 1 (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1320363850/index.m3u8
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 2 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BEIN_BOX_OFFICE_2_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BEIN BOX OFFICE 2 (6)
@@ -599,6 +601,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2563486225/index.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BLOOMBERGHT HD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/858568307/index.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERGHT RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_RAW_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BLOOMBERGHT RAW (1)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3578150260/index.m3u8
 #EXTINF:-1 tvg-name="BONUS MASAL DIYARI (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BONUS_MASAL_DIYARI_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BONUS MASAL DIYARI (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1753590086/index.m3u8
 #EXTINF:-1 tvg-name="BOOBA TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BOOBA_TV_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BOOBA TV (1)
@@ -619,6 +623,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2661613246/index.m3u8
 #EXTINF:-1 tvg-name="BRT 2 RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BRT_2_RAW_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BRT 2 RAW (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2794224703/index.m3u8
+#EXTINF:-1 tvg-name="BRT 3 (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BRT_3_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BRT 3 (1)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1840145851/index.m3u8
 #EXTINF:-1 tvg-name="BRTV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BRTV_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BRTV (6)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/134086061/index.m3u8
 #EXTINF:-1 tvg-name="BULMACA KULESI (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BULMACA_KULESI_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BULMACA KULESI (1)
@@ -779,6 +785,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2818684271/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY WORLD (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="DISCOVERY_WORLD_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",DISCOVERY WORLD (6)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3624002307/index.m3u8
+#EXTINF:-1 tvg-name="DISNEY CHANNEL (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="DISNEY_CHANNEL_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",DISNEY CHANNEL (7)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1161899432/index.m3u8
 #EXTINF:-1 tvg-name="DISNEY CHANNEL HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="DISNEY_CHANNEL_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",DISNEY CHANNEL HD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3578544716/index.m3u8
 #EXTINF:-1 tvg-name="DISNEY JR (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="DISNEY_JR_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",DISNEY JR (7)
@@ -985,8 +993,6 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3358854668/index.m3u8
 #EXTINF:-1 tvg-name="EURO D (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="EURO_D_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",EURO D (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2784530383/index.m3u8
-#EXTINF:-1 tvg-name="EURO STAR (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="EURO_STAR_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",EURO STAR (7)
-https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3814521935/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="EUROSPORT_1_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",EUROSPORT 1 (6)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3458631461/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="EUROSPORT_1_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",EUROSPORT 1 (7)
@@ -1149,6 +1155,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2322262210/index.m3u8
 #EXTINF:-1 tvg-name="GONCA TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GONCA_TV_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",GONCA TV (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3241393177/index.m3u8
+#EXTINF:-1 tvg-name="GONCA TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GONCA_TV_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",GONCA TV (6)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2078775973/index.m3u8
 #EXTINF:-1 tvg-name="GRT TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GRT_TV_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",GRT TV (6)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2577534278/index.m3u8
 #EXTINF:-1 tvg-name="GS TV (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="GS_TV_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",GS TV (7)
@@ -1309,6 +1317,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1096791444/index.m3u8
 #EXTINF:-1 tvg-name="KANAL AVRUPA (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="KANAL_AVRUPA_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",KANAL AVRUPA (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/4085283006/index.m3u8
+#EXTINF:-1 tvg-name="KANAL B (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="KANAL_B_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",KANAL B (6)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2555658748/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="KANAL_D_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",KANAL D (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/231583905/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D FHD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="KANAL_D_FHD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",KANAL D FHD (1)
@@ -1531,6 +1541,18 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/586568093/index.m3u8
 #EXTINF:-1 tvg-name="MIMOCAN TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MIMOCAN_TV_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MIMOCAN TV (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2175768896/index.m3u8
+#EXTINF:-1 tvg-name="MINICA GO (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINICA_GO_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINICA GO (1)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2608519906/index.m3u8
+#EXTINF:-1 tvg-name="MINIKA CÇOÇUK (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINIKA_CCOCUK_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINIKA CÇOÇUK (1)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3036231687/index.m3u8
+#EXTINF:-1 tvg-name="MINIKA CÇOÇUK (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINIKA_CCOCUK_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINIKA CÇOÇUK (6)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1127812993/index.m3u8
+#EXTINF:-1 tvg-name="MINIKA CÇOÇUK (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINIKA_CCOCUK_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINIKA CÇOÇUK (7)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/4058432171/index.m3u8
+#EXTINF:-1 tvg-name="MINIKA GO (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINIKA_GO_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINIKA GO (6)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2831274809/index.m3u8
+#EXTINF:-1 tvg-name="MINIKA GO (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MINIKA_GO_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MINIKA GO (7)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2937701421/index.m3u8
 #EXTINF:-1 tvg-name="MONTAG & FREITAG BULLI (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MONTAG_FREITAG_BULLI_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MONTAG & FREITAG BULLI (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2862980701/index.m3u8
 #EXTINF:-1 tvg-name="MOVIE SMART ACTION (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="MOVIE_SMART_ACTION_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",MOVIE SMART ACTION (7)
@@ -1775,8 +1797,6 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2217333005/index.m3u8
 #EXTINF:-1 tvg-name="SALON 2 (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="SALON_2_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",SALON 2 (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3280579549/index.m3u8
-#EXTINF:-1 tvg-name="SALON 3 (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="SALON_3_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",SALON 3 (6)
-https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3828385424/index.m3u8
 #EXTINF:-1 tvg-name="SALON 3 SINEMAX (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="SALON_3_SINEMAX_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",SALON 3 SINEMAX (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/915717266/index.m3u8
 #EXTINF:-1 tvg-name="SARAN SPORT 1 (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="SARAN_SPORT_1_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",SARAN SPORT 1 (7)
@@ -2355,6 +2375,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1221661755/index.m3u8
 #EXTINF:-1 tvg-name="TVNET HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TVNET_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",TVNET HD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1182480796/index.m3u8
+#EXTINF:-1 tvg-name="TVO TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="TVO_TV_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",TVO TV (1)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2916629658/index.m3u8
 #EXTINF:-1 tvg-name="UCANKUS (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="UCANKUS_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",UCANKUS (7)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3215571778/index.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="ULKE_TV_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",ÜLKE TV (6)
