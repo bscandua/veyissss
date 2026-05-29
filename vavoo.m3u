@@ -601,8 +601,6 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/2563486225/index.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT HD (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BLOOMBERGHT HD (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/858568307/index.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERGHT RAW (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BLOOMBERGHT_RAW_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BLOOMBERGHT RAW (1)
-https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3578150260/index.m3u8
 #EXTINF:-1 tvg-name="BONUS MASAL DIYARI (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BONUS_MASAL_DIYARI_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BONUS MASAL DIYARI (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1753590086/index.m3u8
 #EXTINF:-1 tvg-name="BOOBA TV (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="BOOBA_TV_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",BOOBA TV (1)
@@ -2395,6 +2393,8 @@ https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.t
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1785479914/index.m3u8
 #EXTINF:-1 tvg-name="VIASAT HISTORY (6)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="VIASAT_HISTORY_6_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",VIASAT HISTORY (6)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1900945213/index.m3u8
+#EXTINF:-1 tvg-name="VIASAT HISTORY (7)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="VIASAT_HISTORY_7_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",VIASAT HISTORY (7)
+https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/1515686371/index.m3u8
 #EXTINF:-1 tvg-name="VIASAT HISTORY HD+ (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="VIASAT_HISTORY_HD_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",VIASAT HISTORY HD+ (1)
 https://vettelchannelowner-vettel-channel.hf.space/proxy/m3u?url=https://vavoo.to/play/3480468962/index.m3u8
 #EXTINF:-1 tvg-name="VIASAT HISTORY HEVC (1)" tvg-language="Türkçe" tvg-country="Türkiye" tvg-id="VIASAT_HISTORY_HEVC_1_" tvg-logo="https://raw.githubusercontent.com/vettelistrue/Vettel-Channel-M3U/refs/heads/main/Pythonlar/VETTEL.png" group-title="Genel Kanallar",VIASAT HISTORY HEVC (1)
